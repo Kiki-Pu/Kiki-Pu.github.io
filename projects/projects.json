@@ -1,8 +1,8 @@
 [
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
+    "name": "Nano Banana - Kiki",
+    "desc": "A creative AI-powered image editing project featuring 8 unique plays — from background erasing, outfit changing, and custom posing to magazine covers, 3D figurine modeling, multi-image fusion, and map recognition.",
+    "image": "nano",
     "category": "lamp",
     "links": {
       "view": "https://reactjsprojects.herokuapp.com/",
@@ -20,6 +20,7 @@
     }
   }
 ]
+
 
 
 
