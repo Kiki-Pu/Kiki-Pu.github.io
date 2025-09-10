@@ -3,11 +3,12 @@
     "name": "React-Projects",
     "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
     "image": "reactprojects",
-    "category": "",
+    "category": "videos",
     "links": {
       "View": "https://reactjsprojects.herokuapp.com/",
     }
   }
 ]
+
 
 
