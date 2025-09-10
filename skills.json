@@ -1,26 +1,118 @@
 [
-    {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
-    },
-    {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
-    },
-    {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
-    },
-    {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
-    },
-    {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
-    }
+  {
+    "name": "Data Analysis & Statistical Modeling",
+    "icon": "https://img.icons8.com/color/48/statistics.png"
+  },
+  {
+    "name": "Survey Data Processing & Cleaning",
+    "icon": "https://img.icons8.com/color/48/survey.png"
+  },
+  {
+    "name": "A/B Testing & Experimental Design",
+    "icon": "https://img.icons8.com/color/48/ab-testing.png"
+  },
+  {
+    "name": "Marketing Performance Measurement",
+    "icon": "https://img.icons8.com/color/48/combo-chart--v1.png"
+  },
+  {
+    "name": "Data Visualization & Reporting",
+    "icon": "https://img.icons8.com/color/48/combo-chart.png"
+  },
+  {
+    "name": "Secondary Research & Insight Synthesis",
+    "icon": "https://img.icons8.com/color/48/research.png"
+  },
+  {
+    "name": "Questionnaire Design & Testing",
+    "icon": "https://img.icons8.com/color/48/survey.png"
+  },
+  {
+    "name": "Open-Ended Response Analysis",
+    "icon": "https://img.icons8.com/color/48/analysis.png"
+  },
+  {
+    "name": "Consumer Behavior Reporting",
+    "icon": "https://img.icons8.com/color/48/report-card.png"
+  },
+  {
+    "name": "SPSS",
+    "icon": "https://img.icons8.com/color/48/spss.png"
+  },
+  {
+    "name": "R",
+    "icon": "https://img.icons8.com/color/48/r-project.png"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/python.png"
+  },
+  {
+    "name": "Qualtrics",
+    "icon": "https://img.icons8.com/color/48/google-forms-new-logo.png"
+  },
+  {
+    "name": "SurveyMonkey",
+    "icon": "https://img.icons8.com/color/48/survey.png"
+  },
+  {
+    "name": "Tableau",
+    "icon": "https://img.icons8.com/color/48/tableau-software.png"
+  },
+  {
+    "name": "Power BI",
+    "icon": "https://img.icons8.com/color/48/power-bi.png"
+  },
+  {
+    "name": "Adobe Creative Suite",
+    "icon": "https://img.icons8.com/color/48/adobe-creative-cloud.png"
+  },
+  {
+    "name": "CapCut",
+    "icon": "https://img.icons8.com/color/48/video-editing.png"
+  },
+  {
+    "name": "Canva",
+    "icon": "https://img.icons8.com/color/48/canva.png"
+  },
+  {
+    "name": "ChatGPT",
+    "icon": "https://img.icons8.com/color/48/chatgpt.png"
+  },
+  {
+    "name": "Heygen",
+    "icon": "https://img.icons8.com/color/48/artificial-intelligence.png"
+  },
+  {
+    "name": "KlingAI",
+    "icon": "https://img.icons8.com/color/48/robot.png"
+  },
+  {
+    "name": "Captions",
+    "icon": "https://img.icons8.com/color/48/subtitles.png"
+  },
+  {
+    "name": "Runway",
+    "icon": "https://img.icons8.com/color/48/video.png"
+  },
+  {
+    "name": "Veo3",
+    "icon": "https://img.icons8.com/color/48/movie-projector.png"
+  },
+  {
+    "name": "Nano banana",
+    "icon": "https://img.icons8.com/color/48/banana.png"
+  },
+  {
+    "name": "Midjourney",
+    "icon": "https://img.icons8.com/color/48/artificial-intelligence.png"
+  },
+  {
+    "name": "Vidu",
+    "icon": "https://img.icons8.com/color/48/cinema-.png"
+  },
+  {
+    "name": "Lovable",
+    "icon": "https://img.icons8.com/color/48/like--v3.png"
+  }
 ]
