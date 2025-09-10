@@ -20,8 +20,8 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Jigar Sable";
-            $("#favicon").attr("href", "/assets/images/favicon.png");
+            document.title = "Projects | Portfolio Xiaoke Pu";
+            $("#favicon").attr("href", "/assets/images/kiki/kiki1.png");
         }
         else {
             document.title = "Come Back To Portfolio";
@@ -134,4 +134,5 @@ document.onkeydown = function (e) {
     if (e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
         return false;
     }
+
 }
