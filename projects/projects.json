@@ -9,7 +9,18 @@
       "code": "https://github.com/jigar-sable/React-Projects"
     }
   },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "lamp",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
 ]
+
 
 
 
