@@ -1,7 +1,7 @@
 [
   {
     "name": "Nano Banana - Kiki",
-    "desc": "A creative AI-powered image editing project featuring 8 unique plays — from background erasing, outfit changing, and custom posing to magazine covers, 3D figurine modeling, multi-image fusion, and map recognition.",
+    "desc": "An AI-powered creative project featuring 8 unique plays, from background erasing and outfit changing to magazine covers and 3D figurine modeling.",
     "image": "nano",
     "category": "lamp",
     "links": {
@@ -10,7 +10,17 @@
   },
   {
     "name": "Nano Banana x Veo 3 – Creative Video",
-    "desc": "A dynamic video project that combines the Nano Banana image concept with Veo 3’s generative video capabilities. It brings 8 imaginative plays to life, blending AI-powered image editing with cinematic storytelling.",
+    "desc": "A dynamic video that brings Nano Banana’s creative concepts to life using Veo 3’s generative video technology.",
+    "image": "girl",
+    "category": "lamp",
+    "links": {
+      "view": "https://drive.google.com/file/d/1r58s82xG8pASZMYrkdjkP6lKXzZpeDIk/view?usp=drive_link"
+    }
+  }
+],
+  {
+    "name": "Veo 3 – Beverage Advertisement",
+    "desc": "A cinematic AI-generated beverage ad created with Veo 3, blending sleek visuals with professional commercial style.",
     "image": "girl",
     "category": "lamp",
     "links": {
@@ -18,6 +28,7 @@
     }
   }
 ]
+
 
 
 
