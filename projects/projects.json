@@ -2,7 +2,7 @@
   {
     "name": "Nano Banana - Kiki",
     "desc": "An AI-powered creative project featuring 8 unique plays, from background erasing and outfit changing to magazine covers and 3D figurine modeling.",
-    "image": "nano",
+    "image": "nano.png",
     "category": "lamp",
     "links": {
       "view": "https://drive.google.com/file/d/1-Pz-f0zV8ZJoQkqUO0V0F_fntyaMTSo1/view?usp=drive_link"
@@ -11,7 +11,7 @@
   {
     "name": "Nano Banana x Veo 3 – Creative Video",
     "desc": "A dynamic video that brings Nano Banana’s creative concepts to life using Veo 3’s generative video technology.",
-    "image": "beverage",
+    "image": "beverage.jpg",
     "category": "lamp",
     "links": {
       "view": "https://drive.google.com/file/d/1r58s82xG8pASZMYrkdjkP6lKXzZpeDIk/view?usp=drive_link"
@@ -20,7 +20,7 @@
   {
     "name": "Veo 3 – Beverage Advertisement",
     "desc": "A cinematic AI-generated beverage ad created with Veo 3, blending sleek visuals with professional commercial style.",
-    "image": "girl",
+    "image": "girl.png",
     "category": "lamp",
     "links": {
       "view": "https://drive.google.com/file/d/16ACtcyZuoYrD8cK9ySEv5z910ROTRKNq/view?usp=drive_link"
@@ -29,7 +29,7 @@
   {
     "name": "KingAI – Anime Creation",
     "desc": "An original anime-style project created with KingAI, exploring AI-driven storytelling and character design.",
-    "image": "Anime",
+    "image": "Anime.jpg",
     "category": "lamp",
     "links": {
       "view": "https://drive.google.com/file/d/1gFsg-J1VfgdpQtBVw3HpPOpXH0gO1VbX/view?usp=drive_link"
@@ -38,7 +38,7 @@
   {
     "name": "Veo 3 – Little Robot Video",
     "desc": "A playful short video created with Veo 3, featuring a little robot brought to life through AI-generated animation.",
-    "image": "robot",
+    "image": "robot.jpg",
     "category": "lamp",
     "links": {
     "view": "https://drive.google.com/file/d/1cHv2JBls8KkQAY1JyqW6yqYhb1Kq-6F4/view?usp=drive_link"
@@ -47,13 +47,14 @@
   {
     "name": "Veo 3 – Futuristic City Video",
     "desc": "A playful short video created with Veo 3, featuring a little robot brought to life through AI-generated animation.",
-    "image": "city",
+    "image": "city.jpg",
     "category": "lamp",
     "links": {
     "view": "https://drive.google.com/file/d/1KCW8wGXc835NYRmLQMtS4C4D5YCWGoEJ/view?usp=drive_link"
    }
   }
 ]
+
 
 
 
