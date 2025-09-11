@@ -201,7 +201,7 @@ header .navbar ul li a:hover{
   gap:1.5rem;
   margin: 2rem;
 }
-.work .box-container .box{
+/* .work .box-container .box{
   flex:1 1 30rem;
   border-radius: .5rem;
   box-shadow: 0 .7rem 1rem rgba(0,0,0,.3);
@@ -210,6 +210,14 @@ header .navbar ul li a:hover{
   height:30rem;
   background: #fff;
   border: none;
+} */
+.work .box-container .box {
+  flex: 1 1 30rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+  height: 30rem;
 }
 .work .box-container .box img{
   height: 100%;
@@ -350,4 +358,5 @@ header .navbar ul li a:hover{
 #scroll-top.active{
   top: calc(100% - 12rem);
 }
+
 /* scroll top ends */
