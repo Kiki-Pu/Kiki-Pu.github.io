@@ -11,7 +11,7 @@
   {
     "name": "Nano Banana x Veo 3 – Creative Video",
     "desc": "A dynamic video that brings Nano Banana’s creative concepts to life using Veo 3’s generative video technology.",
-    "image": "beverage.jpg",
+    "image": "girl.png",
     "category": "lamp",
     "links": {
       "view": "https://drive.google.com/file/d/1r58s82xG8pASZMYrkdjkP6lKXzZpeDIk/view?usp=drive_link"
@@ -20,7 +20,7 @@
   {
     "name": "Veo 3 – Beverage Advertisement",
     "desc": "A cinematic AI-generated beverage ad created with Veo 3, blending sleek visuals with professional commercial style.",
-    "image": "girl.png",
+    "image": "beverage.jpg",
     "category": "lamp",
     "links": {
       "view": "https://drive.google.com/file/d/16ACtcyZuoYrD8cK9ySEv5z910ROTRKNq/view?usp=drive_link"
@@ -54,6 +54,7 @@
    }
   }
 ]
+
 
 
 
