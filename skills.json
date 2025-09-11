@@ -21,7 +21,7 @@
   },
   {
     "name": "Secondary Research & Insight Synthesis",
-    "icon": "https://img.icons8.com/color/48/research.png"
+    "icon": "https://img.icons8.com/color/48/survey.png"
   },
   {
     "name": "Questionnaire Design & Testing",
@@ -37,11 +37,11 @@
   },
   {
     "name": "SPSS",
-    "icon": "https://img.icons8.com/color/48/spss.png"
+    "icon": "https://img.icons8.com/color/48/statistics.png"
   },
   {
     "name": "R",
-    "icon": "https://img.icons8.com/color/48/r-project.png"
+    "icon": "https://img.icons8.com/color/48/python.png"
   },
   {
     "name": "Python",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Qualtrics",
-    "icon": "https://img.icons8.com/color/48/google-forms-new-logo.png"
+    "icon": "https://img.icons8.com/color/48/statistics.png"
   },
   {
     "name": "SurveyMonkey",
