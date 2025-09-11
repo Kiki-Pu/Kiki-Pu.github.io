@@ -9,9 +9,9 @@
     }
   },
   {
-    "name": "Nano Banana - Kiki",
-    "desc": "A creative AI-powered image editing project featuring 8 unique plays — from background erasing, outfit changing, and custom posing to magazine covers, 3D figurine modeling, multi-image fusion, and map recognition.",
-    "image": "nano",
+    "name": "Nano Banana x Veo 3 – Creative Video",
+    "desc": "A dynamic video project that combines the Nano Banana image concept with Veo 3’s generative video capabilities. It brings 8 imaginative plays to life, blending AI-powered image editing with cinematic storytelling.",
+    "image": "girl",
     "category": "lamp",
     "links": {
       "view": "https://reactjsprojects.herokuapp.com/",
@@ -19,6 +19,7 @@
     }
   }
 ]
+
 
 
 
