@@ -38,13 +38,23 @@
   {
     "name": "Veo 3 – Little Robot Video",
     "desc": "A playful short video created with Veo 3, featuring a little robot brought to life through AI-generated animation.",
-    "image": "robot.png",
+    "image": "robot",
     "category": "lamp",
     "links": {
-    "view": "projects/robot-video.html"
+    "view": "https://drive.google.com/file/d/1cHv2JBls8KkQAY1JyqW6yqYhb1Kq-6F4/view?usp=drive_link"
+   }
+  },
+  {
+    "name": "Veo 3 – Futuristic City Video",
+    "desc": "A playful short video created with Veo 3, featuring a little robot brought to life through AI-generated animation.",
+    "image": "city",
+    "category": "lamp",
+    "links": {
+    "view": "https://drive.google.com/file/d/1KCW8wGXc835NYRmLQMtS4C4D5YCWGoEJ/view?usp=drive_link"
    }
   }
 ]
+
 
 
 
